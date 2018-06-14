@@ -1,8 +1,3 @@
-# React Native Flashcards
-
-![](https://github.com/tenwiz/react-native-flash-card/blob/master/1.gif)
-![](https://github.com/tenwiz/react-native-flash-card/blob/master/2.gif)
-
 ## Test
 
 The application was tested on iPhone 7 Plus and Samsung Galaxy S6.
@@ -20,8 +15,8 @@ In Card Quiz:
 ## Run
 
 * Make sure `yarn` is installed
-* `git clone https://github.com/Martian2Lee/Mobile-Flashcards.git` 
-* `cd Mobile-Flashcards/`
+* `git clone https://github.com/jfan0888/flash-card.git` 
+* `cd flash-card/`
 * `yarn install`
 * `yarn start`
 * Follow instructions to open Android or iOS simulator on PC or phone.
